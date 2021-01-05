@@ -2,7 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-# Getting Started with Storybook App
+## Getting Started with Storybook App
 
 With the use of Storybook we can preview of this application template
 
