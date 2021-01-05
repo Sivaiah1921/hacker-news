@@ -1,0 +1,13 @@
+.comments-container-wrapper {
+  padding: 1rem;
+
+  .pad_left_20 {
+    padding-left: 20px;
+  }
+
+  pre {
+    overflow-x: auto;
+    white-space: pre-wrap;
+    word-wrap: break-word;
+  }
+}
