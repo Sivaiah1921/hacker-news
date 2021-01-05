@@ -1,6 +1,10 @@
-# Getting Started with Create React App
+# Getting Started with React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+# Getting Started with Storybook App
+
+With the use of Storybook we can preview of this application template
 
 ## Available Scripts
 
@@ -10,6 +14,17 @@ In the project directory, you can run:
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+
+The page will reload if you make edits.\
+You will also see any lint errors in the console.
+
+### `npm run storybook`
+
+Runs the app in the development mode.\
+Open [http://localhost:6006](http://localhost:6006) to view it in the browser.
+
+│ Local: http://localhost:6006/ │
+│ On your network: http://192.168.43.143:6006/
 
 The page will reload if you make edits.\
 You will also see any lint errors in the console.
@@ -28,6 +43,14 @@ The build is minified and the filenames include the hashes.\
 Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+
+### `build-storybook`
+
+Builds the app for production to the `build` folder.\
+It correctly bundles React in production mode and optimizes the build for the best performance.
+
+The build is minified and the filenames include the hashes.\
+Your app is ready to be deployed!
 
 ### `npm run eject`
 
